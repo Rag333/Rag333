@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Raze</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Backend & System Design Enthusiast</h3>
+# Hi 👋, I'm Raze  
+
+### Full Stack Developer | MERN Stack | Backend & System Design Enthusiast
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student  
-- 💻 Passionate about **Backend Development**, **Scalable Systems**, and **Clean Architecture**
-- 🛠️ Working with **Node.js, Express, MongoDB, React**
-- 📊 Exploring **Data Science & Analytics**
-- 🧠 Practicing **DSA in Java**
-- 🌱 Currently learning **Advanced React, WebSockets & Microservices**
+- 💻 Passionate about **Backend Development**, **Scalable Systems**, and **Clean Architecture**  
+- 🛠️ Working with **Node.js, Express, MongoDB, React**  
+- 📊 Exploring **Data Science & Analytics**  
+- 🧠 Practicing **DSA in Java**  
+- 🌱 Currently learning **Advanced React, WebSockets & Microservices**  
 - 🔥 Building real-world projects like **INSPIRA**, **ConnectWMe**, and **AI-powered platforms**
 
 ---
@@ -39,30 +40,29 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **INSPIRA**
-> Pinterest-like image sharing platform  
+### 🔹 INSPIRA
+Pinterest-like image sharing platform  
 - Social login  
 - Modern responsive UI  
 - MERN stack architecture  
 
-### 🔹 **ConnectWMe**
-> Real-time chat & connection platform  
+### 🔹 ConnectWMe
+Real-time chat & connection platform  
 - WebSockets & Socket.IO  
 - User authentication  
 - Scalable backend design  
 
-### 🔹 **Daily Invest AI**
-> AI-powered investment insights  
-- Animated charts in React  
-- API-driven backend  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rag333&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rag333&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rag333&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rag333&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -70,19 +70,19 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rag333&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Rag333&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Mahipal Singh](https://www.linkedin.com/in/mahipalsingh07/)
-- 📧 Email: *Add your email here*
-- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/mahipalsingh07/  
+- 📧 Email: manish7.2.2004@gmail.com 
+- 🌐 Portfolio: connectwme.site 
 
 ---
 
 ## 💡 Quote I Believe In
 
-> *"First make it work, then make it right, then make it fast."* 🚀
+> *First make it work, then make it right, then make it fast.* 🚀
