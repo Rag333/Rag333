@@ -2,6 +2,8 @@
 
 ### Full Stack Developer | MERN Stack | Backend & System Design Enthusiast
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rag333&style=for-the-badge)
+
 ---
 
 ## 🚀 About Me
@@ -52,17 +54,21 @@ Real-time chat & connection platform
 - User authentication  
 - Scalable backend design  
 
+### 🔹 Daily Invest AI
+AI-powered investment insights  
+- Animated charts in React  
+- API-driven backend  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rag333&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rag333&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rag333&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rag333&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -70,7 +76,7 @@ Real-time chat & connection platform
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rag333&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rag333&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,8 +84,8 @@ Real-time chat & connection platform
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mahipalsingh07/  
-- 📧 Email: manish7.2.2004@gmail.com 
-- 🌐 Portfolio: connectwme.site 
+- 📧 Email: your-email@example.com  
+- 🌐 Portfolio: Coming Soon  
 
 ---
 
