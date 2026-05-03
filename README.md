@@ -19,7 +19,7 @@ Full Stack Developer with hands-on experience in **MERN Stack** and **Generative
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (2026) | 3rd Year  
+- 🎓 B.Tech CSE (2026) | 4th Year  
 - 💻 Passionate about **Scalable Backend Systems & Clean Architecture**  
 - 🔥 Building real-world projects with **AI + Full Stack**  
 - 🧠 Currently learning:
