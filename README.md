@@ -1,63 +1,134 @@
-# Hi 👋, I'm Raze  
+# Hi 👋, I'm Mahipal Singh (Raze)
 
-### Full Stack Developer | MERN Stack | Backend & System Design Enthusiast
+### 🚀 Full Stack Developer | MERN | GenAI | Scalable Systems Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rag333&style=for-the-badge)
 
 ---
 
+## 🧠 Professional Summary
+
+Full Stack Developer with hands-on experience in **MERN Stack** and **Generative AI**, building scalable, real-time, and AI-powered applications.
+
+- ⚡ Strong in **Backend Development & System Design**
+- 🤖 Experience with **LLMs, RAG pipelines, and AI integrations**
+- 📈 Solved **200+ DSA problems** across platforms  
+- 🏗️ Focused on building **production-grade applications**
+
+---
+
 ## 🚀 About Me
 
-- 🎓 3rd Year Computer Science Engineering Student  
-- 💻 Passionate about **Backend Development**, **Scalable Systems**, and **Clean Architecture**  
-- 🛠️ Working with **Node.js, Express, MongoDB, React**  
-- 📊 Exploring **Data Science & Analytics**  
-- 🧠 Practicing **DSA in Java**  
-- 🌱 Currently learning **Advanced React, WebSockets & Microservices**  
-- 🔥 Building real-world projects like **INSPIRA**, **ConnectWMe**, and **AI-powered platforms**
+- 🎓 B.Tech CSE (2026) | 3rd Year  
+- 💻 Passionate about **Scalable Backend Systems & Clean Architecture**  
+- 🔥 Building real-world projects with **AI + Full Stack**  
+- 🧠 Currently learning:
+  - Advanced React ⚛️  
+  - Microservices Architecture 🧩  
+  - WebSockets & Real-Time Systems 🌐  
+  - LLMOps & RAG Systems 🤖  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+- Java ☕  
+- JavaScript (ES6+) ⚡  
+- Python 🐍  
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+- Node.js  
+- Express.js  
+- REST APIs  
+- WebSockets (Socket.io)  
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+- React.js  
+- Redux  
+- Tailwind CSS  
+- Bootstrap  
+- GSAP (Animations)  
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### 🗄️ Databases
+- MongoDB  
+- MySQL  
+- Vector Databases (FAISS, ChromaDB – basics)  
+
+### 🤖 AI / GenAI
+- LLM APIs (OpenAI, Gemini)  
+- LangChain  
+- RAG Systems  
+- Prompt Engineering  
+- Hugging Face Transformers  
+- Embeddings  
+
+### ☁️ Cloud & Tools
+- Git & GitHub  
+- Firebase  
+- Postman  
+- Docker (Basics)  
+- AWS (S3, EC2 – Basics)  
+- CI/CD (Basics)  
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 Frontend Developer Intern — Edunet Foundation  
+📅 Aug 2025 – Oct 2025  
+
+- Built responsive and accessible UI using React  
+- Integrated REST APIs for optimized performance  
+- Improved scalability with reusable components (~30% reduction in redundancy)  
+- Worked in Agile teams with Git workflows & code reviews  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 INSPIRA
-Pinterest-like image sharing platform  
-- Social login  
-- Modern responsive UI  
-- MERN stack architecture  
+### 🔹 INSPIRA — AI-Powered Image Sharing Platform  
+**Tech:** MERN, Cloudinary, Generative AI  
 
-### 🔹 ConnectWMe
-Real-time chat & connection platform  
-- WebSockets & Socket.IO  
-- User authentication  
-- Scalable backend design  
+- Built Pinterest-like scalable platform  
+- Integrated **LLM-based recommendation engine**  
+- Optimized media delivery using Cloudinary CDN  
+- Features: likes, saves, collections  
 
-### 🔹 Daily Invest AI
-AI-powered investment insights  
-- Animated charts in React  
-- API-driven backend  
+---
+
+### 🔹 ConnectWMe — Real-Time Social Platform  
+**Tech:** MERN, Socket.io, JWT  
+
+- Real-time chat system with **low latency**  
+- JWT authentication + role-based access  
+- Presence indicators & notifications  
+- Scalable modular backend (MVC architecture)  
+
+---
+
+### 🔹 RAG-Based Document QA System *(In Progress)*  
+**Tech:** Python, LangChain, OpenAI, FAISS  
+
+- End-to-end **Retrieval-Augmented Generation pipeline**  
+- Document ingestion → embeddings → retrieval → LLM response  
+- Focus on **grounded & cited AI responses**  
+
+---
+
+### 🔹 Daily Invest AI  
+**Tech:** React, APIs  
+
+- AI-driven investment insights platform  
+- Interactive & animated data visualizations  
+
+---
+
+## 📊 Achievements
+
+- ✅ Solved **200+ DSA problems** (LeetCode & GfG)  
+- 🚀 Built **production-level full-stack + AI apps**  
+- 📚 Actively learning **GenAI Engineering & LLMOps**  
 
 ---
 
@@ -84,11 +155,22 @@ AI-powered investment insights
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mahipalsingh07/  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: Coming Soon  
+- 📧 Email: mahipal98104@gmail.com  
+- 💻 GitHub: https://github.com/Rag333  
 
 ---
 
-## 💡 Quote I Believe In
+## 💡 Philosophy
 
-> *First make it work, then make it right, then make it fast.* 🚀
+> *First make it work, then make it right, then make it fast.* 🚀  
+
+---
+
+## ⚡ What Makes Me Different?
+
+- Not just MERN — I build **AI-integrated systems**  
+- Strong focus on **scalability + architecture**  
+- Real-world projects with **production mindset**  
+- Blending **Software Engineering + AI Engineering**  
+
+---
